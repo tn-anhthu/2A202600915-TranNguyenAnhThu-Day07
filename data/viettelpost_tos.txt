@@ -1,0 +1,100 @@
+ViettelPost Terms and Conditions
+Effective Date: January 1, 2024
+
+Article 1. General Regulations
+
+1. The ViettelPost software has been registered with the Ministry of Industry and Trade for the purpose of providing postal, logistics, and e-commerce services. By accepting to use ViettelPost Services, the Customer has read, understood, and agreed to these Terms.
+
+2. Viettel Post has the right to amend or supplement any content in these Terms at any time. Continued use of services after any changes constitutes acceptance.
+
+Article 2. Definitions
+
+- Service: postal services provided by Viettel Post through the ViettelPost software.
+- Customer: an organization or individual using services on ViettelPost.
+- Package: letters, parcels, or goods accepted and transported within ViettelPost's postal system.
+- Order: a service request created by the Customer on the software.
+- Accepted Order: an Order physically received by ViettelPost staff.
+
+Article 3. Service Fees
+
+1. The service fee schedule is set by Viettel Post and publicly announced on the website or at ViettelPost business locations.
+2. Viettel Post has the right to change service fees. Changed fee schedules are binding if the Customer continues to use the service after the new schedule takes effect.
+
+Article 4. Sending, Receiving, and Return Regulations
+
+a. Sending Procedure
+Customers must provide complete order information: sender information, recipient information, address, phone number, contents, quantity, weight, dimensions, selected service, COD amount, and additional services.
+
+b. Receiving Procedure
+ViettelPost inspects items and documents before acceptance. ViettelPost only accepts legal items meeting all transportation requirements.
+
+c. Return Procedure
+Packages are returned to Customers when delivery is unsuccessful due to: incorrect address, recipient refused delivery, recipient moved without leaving new address, or Customer requested return.
+
+Article 5. Personal Data Processing
+
+1. By using the Services, Customers confirm agreement with ViettelPost's personal data protection policy.
+2. If Customer disagrees with ViettelPost collecting and processing personal data, please stop using ViettelPost services.
+
+Article 6. Customer Rights and Obligations
+
+a. Customer Rights:
+- Receive complete information about the service being used.
+- Ensure security of shipment information during service use.
+- File complaints about services within the applicable time limits.
+- Receive compensation for damages according to ViettelPost regulations and applicable law.
+
+b. Customer Obligations:
+- Keep account information confidential.
+- Not send prohibited items.
+- Declare sender, recipient, and shipment information truthfully.
+
+Article 7. ViettelPost Rights and Obligations
+
+a. ViettelPost Rights:
+- Require Customers to provide legal information.
+- Refuse packages not meeting acceptance conditions.
+- Refuse, temporarily hold, or hand over packages containing prohibited goods to authorities.
+
+b. ViettelPost Obligations:
+- Provide accurate and complete information about services and fees.
+- Ensure service quality as committed to Customers.
+- Receive and resolve Customer complaints.
+- Return packages to Customers when delivery to recipient is unsuccessful.
+
+Article 8. Compensation for Damages
+
+ViettelPost is only responsible for compensation in cases where a package is lost, misdelivered, or damaged during service provision due to ViettelPost's direct fault.
+
+The compensation amount is based on actual damages but does not exceed the total liability limit for the service.
+
+No compensation for indirect damages or unrealized profits.
+
+Article 9. Complaint Resolution
+
+a. Complaint Time Limits:
+Customers have the right to file complaints within:
+- 6 (six) months from the end of the total transit time of the package for complaints about lost packages or delayed delivery beyond the announced transit time. The six-month complaint limitation period for lost packages starts from the date the transit time ends.
+- 1 (one) month from the date the package is delivered to the recipient for complaints about damaged packages or price-related matters.
+
+b. Complaint Resolution Timeline (from the date ViettelPost receives the complaint):
+- No more than 2 (two) months for domestic postal services. ViettelPost resolves domestic complaints within a maximum of two months.
+- No more than 3 (three) months for international postal services according to the Postal Law. International complaint resolution takes a maximum of three months.
+
+c. Receiving Complaints:
+ViettelPost receives Customer complaints through: Hotline 1900.8095, ViettelPost App, ViettelPost.vn website, Fanpage, Email: cskh@viettelpost.com.vn, Telegram, Viber, and Zalo OA.
+
+Article 10. Exemption from Liability
+
+ViettelPost is exempt from liability in the following cases:
+- Package was delivered and recipient had no complaints at time of receipt.
+- Customer cannot prove the sending or damage of the package.
+- Customer did not comply with complaint and dispute resolution regulations.
+- Damage occurred entirely due to Customer violation of Terms or inherent defects of the package.
+- Packages without legal documentation seized or destroyed under Vietnamese law.
+- Force majeure cases as defined by law.
+
+Article 11. Enforcement
+
+1. These Terms are governed by the laws of the Socialist Republic of Vietnam.
+2. These Terms take effect from January 1, 2024.

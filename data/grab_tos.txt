@@ -1,0 +1,61 @@
+Grab Terms of Service - Transportation, Delivery and Commerce
+Last updated: April 28, 2026
+
+PART A - GENERAL TERMS
+
+1. Introduction
+
+1.1. Please read these Terms of Service carefully. By using the Services, you agree that you have read and understood these Terms.
+
+1.2. Grab may modify the terms of this Agreement at any time. Modifications will be notified through the Application and/or your registered email address at least five (05) days before they take effect. The updated version will be posted on https://www.grab.com/vn/. You are responsible for regularly checking the Terms of Service. Continued use of the Services after any changes constitutes acceptance of those changes.
+
+1.3. If you do not agree with changes to the Terms of Service, you must cancel your account or delete the Application from your mobile device. If you use the Service in a country other than your registered country, you must comply with the Terms of Service applicable in that country.
+
+1.4. GRAB IS A TECHNOLOGY COMPANY THAT PROVIDES A PLATFORM FOR USERS TO USE SERVICES PROVIDED BY THIRD-PARTY PROVIDERS. GRAB IS NOT RESPONSIBLE FOR THE ACTIONS OF ANY THIRD-PARTY PROVIDER.
+
+2. Definitions
+
+2.1. Application means the Grab mobile application.
+2.2. Services means the connection of Users with Third-Party Providers through the Application.
+2.3. Personal Data means any information that can be used to identify you.
+2.4. Third-Party Provider means independent partners who provide transportation, delivery, and other services.
+
+3. Representations, Warranties and Undertakings
+
+3.1. By using the Services, you represent and warrant that:
+
+3.1.1. You have full legal capacity to enter into this Agreement and you are at least eighteen (18) years of age. You cannot enter into this Agreement if you are under eighteen (18) years of age. The minimum age to use Grab services and sign the user agreement is 18 years old.
+
+3.1.2. All information you provide is true and accurate.
+
+3.1.3. You will only use the Application and Services for lawful purposes.
+
+3.1.4. You will maintain and keep your account password confidential.
+
+3.1.5. You agree to immediately notify Grab of any unauthorized use of your account.
+
+3.1.6. You will not attempt to disrupt or harm the Services or Application.
+
+4. Account Registration
+
+To use Grab, users must register an account with valid personal information. Users must be at least 18 years old to register a Grab account. Minors cannot independently sign the Grab Terms of Service.
+
+5. Changes to Terms of Service
+
+Grab reserves the right to modify these Terms at any time. If you disagree with changes to the Terms of Service, you must cancel your account or delete the Grab application from your device. Continued use of the application after changes take effect means you accept the updated Terms.
+
+6. Account Termination
+
+Grab may suspend or terminate your account at any time for violation of these Terms, fraudulent activity, or other breaches.
+
+7. Privacy and Data Protection
+
+Grab collects and processes personal data in accordance with its Privacy Notice available at https://www.grab.com/vn/privacy/.
+
+8. Liability
+
+Grab's total liability to you shall not exceed amounts paid by you for the Services in the six months prior to the claim.
+
+9. Governing Law
+
+These Terms are governed by the laws of Vietnam.
